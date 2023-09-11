@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.b1{
+  height: 150vh;
+}
+
+.b2{
+  height: 200vh;
+}
+table ,tr ,th ,td{
+  border: 1px solid gray;
+  padding:10px;
+  text-align: center;
+}
